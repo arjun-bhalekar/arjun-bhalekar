@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Arjun Bhalekar 😄
+### A Passionate Java Developer from Pune, India.
+
+#### I love Java Programming, I always keep learning new things 🌱 
+
+- 📫 How to reach me: arjunbhalekar95@gmail.com
+
 
 <!--
 **arjun-bhalekar/arjun-bhalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
